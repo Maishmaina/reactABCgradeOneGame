@@ -1,5 +1,5 @@
 import React,{ Component} from 'react';
-import Quiz from './Quiz';
+import EasyABC from './ EasyABC';
 import './App.css';
 
 class App extends Component {
@@ -9,11 +9,10 @@ class App extends Component {
 return (
 <div className="App">
 <div className="App-header">
-<p>Maishmaina@gitihub IS TESTING THE APPLICATION</p>
+<p>Maishmaina@gitihub REACT FLUX-FLOW.ME.EXAMPLE</p>
 </div>
-<Quiz />
+<EasyABC/> 
 </div>
-
   );
   }
 }
